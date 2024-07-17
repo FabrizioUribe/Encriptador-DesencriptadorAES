@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabri\\Documents\\Proyectos\\GeneradorClaves_V1.0.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5271F4F7-657E-47FC-8AC6-183E7AABD9EE}|GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3.csproj|c:\\users\\fabri\\documents\\proyectos\\generadorclaves_v1.0.3\\generadorclaves_v1.0.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5271F4F7-657E-47FC-8AC6-183E7AABD9EE}|GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3.csproj|solutionrelative:generadorclaves_v1.0.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GeneradorClaves_V1.0.3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Proyectos\\GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3\\Form1.cs",
+              "RelativeDocumentMoniker": "GeneradorClaves_V1.0.3\\Form1.cs",
+              "ToolTip": "C:\\Users\\fabri\\Documents\\Proyectos\\GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3\\Form1.cs",
+              "RelativeToolTip": "GeneradorClaves_V1.0.3\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:15:21.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneradorClaves_V1.0.3",
+              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Proyectos\\GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3.csproj",
+              "RelativeDocumentMoniker": "GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3.csproj",
+              "ToolTip": "C:\\Users\\fabri\\Documents\\Proyectos\\GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3.csproj",
+              "RelativeToolTip": "GeneradorClaves_V1.0.3\\GeneradorClaves_V1.0.3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T16:05:51.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

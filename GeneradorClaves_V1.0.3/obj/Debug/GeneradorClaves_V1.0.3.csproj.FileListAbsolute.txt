@@ -1,0 +1,14 @@
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\bin\Debug\GeneradorClaves_V1.0.3.exe.config
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\bin\Debug\GeneradorClaves_V1.0.3.exe
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\bin\Debug\GeneradorClaves_V1.0.3.pdb
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1.0.3.csproj.AssemblyReference.cache
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1._0._3.Form1.resources
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1._0._3.Properties.Resources.resources
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1.0.3.csproj.GenerateResource.cache
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1.0.3.csproj.CoreCompileInputs.cache
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1.0.3.exe
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1.0.3.pdb
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\bin\Debug\GeneradorClaves_V1.0.3.exe.manifest
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\bin\Debug\GeneradorClaves_V1.0.3.application
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1.0.3.exe.manifest
+C:\Users\Admistrador\source\repos\GeneradorClaves_V1.0.3\GeneradorClaves_V1.0.3\obj\Debug\GeneradorClaves_V1.0.3.application
